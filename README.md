@@ -33,10 +33,3 @@ The suite is split into separate mods for modularity and maintainability. Each c
 > Similar to the Linked Controller from Create, but with physical cables which encourage more interesting ship design.
 >
 > [modrinth](https://modrinth.com/mod/zps) | [curseforge](https://www.curseforge.com/minecraft/mc-mods/zps)
-
-### Dataplanets
-> An addon for Genesis which procedurally generates unique planet dimensions for each new world.
->
-> Currently bundled with Genesis until Genesis gets its own planets.
->
-> ~~modrinth~~ | ~~curseforge~~
